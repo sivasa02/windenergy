@@ -717,7 +717,7 @@ nav a:hover::before {
 	font-size: 13px;
 	color: #fff;
 	margin-bottom: 20px;
-	margin-top: 20px;
+	margin-top: 40px;
 }
 
 .footer .content p a {
@@ -788,7 +788,7 @@ nav a:hover::before {
 		font-size: 13px;
 		color: #fff;
 		margin-bottom: 0px;
-		margin-top: 20px;
+		margin-top: 40px;
 	}
 
 }
@@ -860,7 +860,7 @@ nav a:hover::before {
 		font-size: 13px;
 		color: #fff;
 		margin-bottom: 0px;
-		margin-top: 20px;
+		margin-top: 40px;
 	}
 
 }
@@ -880,6 +880,6 @@ nav a:hover::before {
 		font-size: 13px;
 		color: #fff;
 		margin-bottom: 0px;
-		margin-top: 20px;
+		margin-top: 40px;
 	}
 }
