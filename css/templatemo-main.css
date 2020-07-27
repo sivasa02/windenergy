@@ -781,6 +781,13 @@ nav a:hover::before {
 	.fifth-content #contact {
 		padding: 30px 30px 30px 30px;
 	}
+		.footer .content p {
+		text-align: center;
+		font-size: 13px;
+		color: #fff;
+		margin-bottom: 0px;
+		margin-top: 20px;
+	}
 
 }
 
@@ -846,6 +853,13 @@ nav a:hover::before {
 	.fifth-content #contact {
 		padding: 15px 15px 15px 15px;
 	}
+		.footer .content p {
+		text-align: center;
+		font-size: 13px;
+		color: #fff;
+		margin-bottom: 0px;
+		margin-top: 20px;
+	}
 
 }
 
@@ -858,5 +872,12 @@ nav a:hover::before {
 	}
 	nav a {
 	  	padding: 15px 20px;
+	}
+		.footer .content p {
+		text-align: center;
+		font-size: 13px;
+		color: #fff;
+		margin-bottom: 0px;
+		margin-top: 20px;
 	}
 }
