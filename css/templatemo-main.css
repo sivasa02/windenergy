@@ -707,7 +707,7 @@ nav a:hover::before {
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	display: inline-block;
+	display:block;
 }
 
 .footer .content p {
